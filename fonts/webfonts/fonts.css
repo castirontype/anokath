@@ -1,0 +1,52 @@
+/* Written by `dfl build` from the fonts beside it; rebuild rather than edit. */
+
+/* Anokath Light */
+@font-face {
+  font-family: "Anokath";
+  src: url("Anokath-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Anokath Regular */
+@font-face {
+  font-family: "Anokath";
+  src: url("Anokath-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Anokath Medium */
+@font-face {
+  font-family: "Anokath";
+  src: url("Anokath-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Anokath Bold */
+@font-face {
+  font-family: "Anokath";
+  src: url("Anokath-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Anokath Regular */
+@font-face {
+  font-family: "Anokath VF";
+  src: url("Anokath-VF.woff2") format("woff2") tech(variations),
+       url("Anokath-VF.woff2") format("woff2-variations");
+  font-weight: 300 700;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
